@@ -64,6 +64,7 @@ export default defineConfig({
               { text: 'React', link: 'reactBug' },
               { text: 'vite', link: 'viteBug' },
               { text: '第三方工具', link: 'thirdPartyToolsBug' },
+              { text: '桌面端', link: 'desktopBug' },
               { text: '小程序开发', link: 'miniProgramBug' },
               { text: 'app开发', link: 'appBug' }
             ]
