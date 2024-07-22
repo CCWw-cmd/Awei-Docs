@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"常用特效实现.md","filePath":"常用特效实现.md","lastUpdated":null}'),r={name:"常用特效实现.md"};function o(s,_,n,c,d,p){return a(),t("div")}const m=e(r,[["render",o]]);export{l as __pageData,m as default};

@@ -1,0 +1,32 @@
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    #35495e -80%,
+    #4a8dea
+  );
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #4a8dea 45%,
+    #35495e80
+  );
+  --vp-home-hero-image-filter: blur(30px);
+}
+
+/* 引用块 */
+.vp-doc blockquote {
+  border-radius: 5px;
+  padding: 10px 16px;
+  background-color: var(--vp-badge-danger-bg);
+  position: relative;
+  border-left: 4px solid #e95f59;
+}
+
+.medium-zoom-overlay {
+  z-index: 20;
+}
+
+.medium-zoom-image {
+  z-index: 9999 !important;
+  /* 给的值是21，但是实测盖不住，直接999 */
+}

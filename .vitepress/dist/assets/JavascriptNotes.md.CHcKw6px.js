@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"JavascriptNotes.md","filePath":"JavascriptNotes.md","lastUpdated":null}'),s={name:"JavascriptNotes.md"};function r(o,c,n,p,i,d){return a(),e("div")}const m=t(s,[["render",r]]);export{l as __pageData,m as default};

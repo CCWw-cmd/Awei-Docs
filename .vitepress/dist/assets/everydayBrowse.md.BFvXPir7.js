@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"everydayBrowse.md","filePath":"everydayBrowse.md","lastUpdated":null}'),r={name:"everydayBrowse.md"};function o(s,d,n,c,p,_){return a(),t("div")}const m=e(r,[["render",o]]);export{l as __pageData,m as default};

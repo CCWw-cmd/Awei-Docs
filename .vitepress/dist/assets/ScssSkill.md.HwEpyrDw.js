@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.DMnPLqTg.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"ScssSkill.md","filePath":"ScssSkill.md","lastUpdated":null}'),a={name:"ScssSkill.md"};function c(l,r,o,n,i,d){return s(),t("div")}const m=e(a,[["render",c]]);export{_ as __pageData,m as default};

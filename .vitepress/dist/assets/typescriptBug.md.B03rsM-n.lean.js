@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"typescriptBug.md","filePath":"typescriptBug.md","lastUpdated":null}'),r={name:"typescriptBug.md"};function s(p,c,o,n,i,d){return a(),e("div")}const m=t(r,[["render",s]]);export{l as __pageData,m as default};

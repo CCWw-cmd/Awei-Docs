@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"css案例学习.md","filePath":"css案例学习.md","lastUpdated":null}'),a={name:"css案例学习.md"};function c(r,o,n,_,d,p){return s(),t("div")}const m=e(a,[["render",c]]);export{l as __pageData,m as default};
