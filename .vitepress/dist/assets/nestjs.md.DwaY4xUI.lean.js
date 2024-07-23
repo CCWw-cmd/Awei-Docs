@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"nestjs.md","filePath":"nestjs.md","lastUpdated":null}'),a={name:"nestjs.md"};function n(r,o,c,d,p,_){return s(),t("div")}const m=e(a,[["render",n]]);export{l as __pageData,m as default};

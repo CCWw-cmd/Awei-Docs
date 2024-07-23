@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"VueNotes.md","filePath":"VueNotes.md","lastUpdated":null}'),o={name:"VueNotes.md"};function s(r,n,c,d,p,_){return a(),t("div")}const m=e(o,[["render",s]]);export{l as __pageData,m as default};

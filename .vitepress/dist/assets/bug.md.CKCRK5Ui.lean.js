@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"bug.md","filePath":"bug.md","lastUpdated":null}'),r={name:"bug.md"};function o(s,n,c,d,p,_){return a(),t("div")}const m=e(r,[["render",o]]);export{l as __pageData,m as default};

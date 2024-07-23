@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"backEnd.md","filePath":"backEnd.md","lastUpdated":null}'),n={name:"backEnd.md"};function c(r,o,s,d,p,_){return a(),t("div")}const m=e(n,[["render",c]]);export{l as __pageData,m as default};

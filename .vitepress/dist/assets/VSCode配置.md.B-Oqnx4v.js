@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"VSCode配置.md","filePath":"VSCode配置.md","lastUpdated":null}'),o={name:"VSCode配置.md"};function r(s,d,n,c,_,p){return a(),t("div")}const m=e(o,[["render",r]]);export{l as __pageData,m as default};

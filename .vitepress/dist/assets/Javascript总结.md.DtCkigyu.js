@@ -1,1 +1,0 @@
-import{_ as t,c as a,o as e}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"Javascript总结.md","filePath":"Javascript总结.md","lastUpdated":null}'),r={name:"Javascript总结.md"};function s(c,o,n,p,i,_){return e(),a("div")}const m=t(r,[["render",s]]);export{l as __pageData,m as default};

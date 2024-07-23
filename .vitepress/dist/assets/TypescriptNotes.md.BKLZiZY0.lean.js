@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s}from"./chunks/framework.DMnPLqTg.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"TypescriptNotes.md","filePath":"TypescriptNotes.md","lastUpdated":null}'),a={name:"TypescriptNotes.md"};function r(o,p,c,n,i,d){return s(),t("div")}const m=e(a,[["render",r]]);export{l as __pageData,m as default};

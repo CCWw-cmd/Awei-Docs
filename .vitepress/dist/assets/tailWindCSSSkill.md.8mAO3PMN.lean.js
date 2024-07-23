@@ -1,1 +1,0 @@
-import{_ as t,c as e,o as a}from"./chunks/framework.DMnPLqTg.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"tailWindCSSSkill.md","filePath":"tailWindCSSSkill.md","lastUpdated":null}'),i={name:"tailWindCSSSkill.md"};function l(n,r,o,s,d,c){return a(),e("div")}const _=t(i,[["render",l]]);export{p as __pageData,_ as default};
