@@ -6,6 +6,7 @@
  * @LastEditors: cjw
  */
 import { defineConfig } from "vitepress";
+import timeline from "vitepress-markdown-timeline";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -13,12 +14,21 @@ export default defineConfig({
   description: "个人文档站点",
   titleTemplate: "记录文档",
   //fav图标
-  head: [["link", { rel: "icon", href: "/logo.svg" }]],
+  head: [["link", { rel: "icon", href: "/Awei-Docs-Page/logo.jpg" }]],
   base: '/Awei-Docs-Page/',
   locales: {
     root: {
       label: "简体中文",
       lang: "Zh_CN",
+    },
+  },
+  markdown: {
+    //行号显示
+    lineNumbers: true,
+
+    //时间线
+    config: (md) => {
+      md.use(timeline);
     },
   },
   lastUpdated: true, // 此配置不会立即生效，需git提交后爬取时间戳，本地报错可以先注释
@@ -64,10 +74,11 @@ export default defineConfig({
               { text: 'vue', link: 'vueBug' },
               { text: 'React', link: 'reactBug' },
               { text: 'vite', link: 'viteBug' },
-              { text: '第三方工具', link: 'thirdPartyToolsBug' },
+              { text: '第三方包', link: 'thirdPartyToolsBug' },
               { text: '桌面端', link: 'desktopBug' },
               { text: '小程序开发', link: 'miniProgramBug' },
-              { text: 'app开发', link: 'appBug' }
+              { text: 'app开发', link: 'appBug' },
+              { text: '编辑器', link: 'editorBug' }
             ]
           }
         ]
