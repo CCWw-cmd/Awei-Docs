@@ -31,3 +31,29 @@
 ### jenkins跑前端项目打包的时候提示Cannot find package 'unplugin-auto-import'
 
 解决方式：找到日志对应的依赖，在对应项目里重新用npm安装
+
+
+
+## Electron
+
+### 安装Electron之后跑命令报错显示安装失败
+
+![image-20240723230744708](public/md_doc_img/image-20240723230744708.png)
+
+解决方式：安装源有问题，先调整安装源
+
+postinstall + 设置`.npmrc`
+
+```ts
+electron_mirror=https://registry.npmmirror.com/-/binary/electron/
+```
+
+package.json
+
+```json
+"scripts": {
+    "start": "electron .",
+    "postinstall": "node node_modules/electron/install.js"
+}
+```
+
