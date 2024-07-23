@@ -14,7 +14,7 @@ export default defineConfig({
   titleTemplate: "记录文档",
   //fav图标
   head: [["link", { rel: "icon", href: "/logo.svg" }]],
-  base: '/Awei-Docs/',
+  base: '/Awei-Docs-Page/',
   locales: {
     root: {
       label: "简体中文",
