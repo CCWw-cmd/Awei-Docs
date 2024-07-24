@@ -64,6 +64,7 @@ export default defineConfig({
               { text: 'TypeScript', link: 'TypescriptNotes' },
               { text: 'Vue', link: 'VueNotes' },
               { text: 'React', link: 'ReactNotes' },
+              { text: '小程序', link: 'miniProgramNotes' },
             ]
           },
           {

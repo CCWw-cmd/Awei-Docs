@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 开始
-      link: /start
+      link: /everydayBrowse
 
 features:
   - icon: 😎
