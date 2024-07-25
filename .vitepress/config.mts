@@ -73,11 +73,11 @@ export default defineConfig({
             items: [
               { text: 'JavaScript', link: 'JavascriptBug' },
               { text: 'TypeScript', link: 'typescriptBug' },
-              { text: 'vue', link: 'vueBug' },
+              { text: 'Vue', link: 'vueBug' },
               { text: 'React', link: 'reactBug' },
               { text: 'vite', link: 'viteBug' },
               { text: '第三方包', link: 'thirdPartyToolsBug' },
-              { text: '桌面端', link: 'desktopBug' },
+              { text: '网页端', link: 'desktopBug' },
               { text: '小程序开发', link: 'miniProgramBug' },
               { text: 'app开发', link: 'appBug' },
               { text: '编辑器', link: 'editorBug' }
@@ -105,7 +105,7 @@ export default defineConfig({
       {
         text: "Css",
         items: [
-          { text: '日常笔记', link: 'everydayNote' },
+          { text: '日常笔记', link: 'everydayCssNote' },
           {
             text: '相关技巧',
             items: [
