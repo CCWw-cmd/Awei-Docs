@@ -69,6 +69,12 @@ export default defineConfig({
             ]
           },
           {
+            text: '第三方包',
+            items: [
+              { text: 'ElementPlus', link: 'ElementPlusNote' },
+            ]
+          },
+          {
             text: '踩坑记录',
             items: [
               { text: 'JavaScript', link: 'JavascriptBug' },
@@ -155,7 +161,8 @@ export default defineConfig({
       {
         text: "提效工具",
         items: [
-          { text: 'VSCode', link: 'VSCode配置' },
+          { text: 'VSCode', link: 'VSCode' },
+          { text: '浏览器插件', link: '浏览器插件' },
         ]
       }],
     logo: "/logo.svg",

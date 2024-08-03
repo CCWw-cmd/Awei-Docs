@@ -1,6 +1,30 @@
-# VSCode 配置
+# VSCode
 
-在使用 VSCode 过程中的常用插件和配置推荐
+在使用 VSCode 过程中的常用插件、配置、快捷键等
+
+## 常用快捷键
+- `Ctrl + P`：快速打开文件
+- `Ctrl + Shift + P`：打开命令面板
+- `Ctrl + F`：全局搜索
+- `Ctrl + H`：全局替换
+- `Ctrl + Shift + F`：在当前文件夹中搜索
+- `Ctrl + Shift + H`：在当前文件夹中替换
+- `Ctrl + G`：跳转到指定行
+- `Ctrl + Shift + G`：跳转到指定行并选择
+- `Alt + Up`：向上移动行
+- `Alt + Down`：向下移动行
+- `Ctrl + Shift+K`：删除当前行
+- `Ctrl + Enter`：在当前行下方插入一行
+- `Ctrl + Shift + Enter`：在当前行上方插入一行
+- `Ctrl + Shift + [`：折叠代码块
+- `Ctrl + Shift + ]`：展开代码块
+- `Ctrl + K Ctrl + [`：折叠所有代码块
+- `Ctrl + K Ctrl + ]`：展开所有代码块
+- `Ctrl + K Ctrl + 0`：折叠所有代码块
+- `Alt + Shift + o` ：import优化
+- `Ctrl + ` `  ：打开终端界面
+- `Ctrl + K Ctrl + T`：选择主题
+
 
 ## 插件推荐
 
@@ -39,6 +63,24 @@ html 的注释嵌套使用时都会发现并不能达到我们想到的效果，
 ![image-20240715091430893](public/md_doc_img/PixPin_2024-07-15_09-17-53.png)
 
 Element Plus 代码片段
+
+### Smart Clicks
+
+![image-20240803160321945](public/md_doc_img/image-20240803160321945.png)
+
+可以自动识别需要选中的内容
+
+### Vite
+
+![image-20240803160432100](public/md_doc_img/image-20240803160432100.png)
+
+编辑器打开vite项目自动启动项目
+
+![image-20240803160716915](public/md_doc_img/image-20240803160716915.png)
+
+可以在package.json显示是否为最新版本且可以一键升级
+
+
 
 ## 配置推荐
 
@@ -149,3 +191,11 @@ settings.json：[language].inlayHints.[what].enabled
 如果没有反应的话就是有重复的快捷键了，需要更改快捷键
 
 ![image-20240716175032820](public/md_doc_img/image-20240716175032820.png)
+
+## 错误
+
+### 显示找不到该快捷键命令
+
+![image-20240803161308171](public/md_doc_img/image-20240803161308171.png)
+
+快捷键占用了，重新设置一个
